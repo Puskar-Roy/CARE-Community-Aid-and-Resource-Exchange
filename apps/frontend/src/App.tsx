@@ -1,14 +1,18 @@
+import { Route, Routes } from "react-router-dom";
+import Home from "./components/Home";
 
 
 function App() {
-
   return (
     <>
-      <div className="text-3xl font-bold underline">
-        CARE
-      </div>
+      <Routes>
+        <Route
+          path="/"
+          element={ <Home />}
+        />
+      </Routes>
     </>
   );
 }
 
-export default App
+export default App;
