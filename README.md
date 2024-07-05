@@ -7,6 +7,7 @@
     
   </a>
 
+
   <h1 align="center">CARE ✨</h1> 
   <p align="center">
 CARE connects those in need with donors and volunteers, facilitating donations, animal rescues, and job opportunities for skilled workers. Join us to build a supportive and resourceful community!
